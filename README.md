@@ -15,6 +15,7 @@ Case Administrator Management | https://www.veeam.com/kb2211
 NFR Lizenzen | https://www.veeam.com/blog/de/how-to-get-free-veeam-nfr-key.html 
 VeeamPN Download | https://www.veeam.com/cloud-disaster-recovery-azure-download.html 
 Veeam Web-Click Demo (inoffiziell) | http://veeam.foonet.be/ 
+Veeam Cloud Connect v9: A Reference Architecture | https://www.veeam.com/wp-cloud-connect-reference-architecture-v9.html
 
 ### ReFS
 Description | URL
