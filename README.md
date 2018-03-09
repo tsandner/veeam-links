@@ -17,6 +17,7 @@ VeeamPN Download | https://www.veeam.com/cloud-disaster-recovery-azure-download.
 Veeam Web-Click Demo (inoffiziell) | http://veeam.foonet.be/ 
 Veeam Cloud Connect v9: A Reference Architecture | https://www.veeam.com/wp-cloud-connect-reference-architecture-v9.html
 Storage Integration Übersicht (Helpcenter) | https://helpcenter.veeam.com/docs/backup/vsphere/storage_integration.html?ver=95
+Scripting examples and more | https://github.com/VeeamHub
 
 
 ### ReFS
