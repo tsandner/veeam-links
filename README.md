@@ -40,4 +40,9 @@ Einführung in die RESTful API | https://cloudoasis.com.au/vbo365api/
   - https://rhyshammond.com/vmce_9-5-practice-exam/ 
   - http://foonet.be/vmce-practice-exam/ 
 
+## Licensing
+Description | URL
+------------ | -------------
+Veeam Editionen im Vergleich | https://www.veeam.com/de/backup-version-standard-enterprise-editions-comparison.html
+Veeam Backup & Replication Licensing FAQ | https://www.veeam.com/backup-licensing-faq.html
 
