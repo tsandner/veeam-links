@@ -16,6 +16,8 @@ NFR Lizenzen | https://www.veeam.com/blog/de/how-to-get-free-veeam-nfr-key.html
 VeeamPN Download | https://www.veeam.com/cloud-disaster-recovery-azure-download.html 
 Veeam Web-Click Demo (inoffiziell) | http://veeam.foonet.be/ 
 Veeam Cloud Connect v9: A Reference Architecture | https://www.veeam.com/wp-cloud-connect-reference-architecture-v9.html
+Storage Integration Übersicht (Helpcenter) | https://helpcenter.veeam.com/docs/backup/vsphere/storage_integration.html?ver=95
+
 
 ### ReFS
 Description | URL
@@ -40,7 +42,7 @@ Einführung in die RESTful API | https://cloudoasis.com.au/vbo365api/
   - https://rhyshammond.com/vmce_9-5-practice-exam/ 
   - http://foonet.be/vmce-practice-exam/ 
 
-## Licensing
+### Licensing
 Description | URL
 ------------ | -------------
 Veeam Editionen im Vergleich | https://www.veeam.com/de/backup-version-standard-enterprise-editions-comparison.html
