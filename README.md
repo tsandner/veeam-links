@@ -3,6 +3,7 @@ Description | URL
 Documentation | https://helpcenter.veeam.com 
 Support Portal (Support Cases & License Cases) | https://my.veeam.com/ 
 Subscription Center (Security Advisories) | https://www.veeam.com/subscription-center.html 
+Datenschutz und Log Files | https://www.veeam.com/kb2462
 Veeam Forum | https://forums.veeam.com/ 
 Best Practice Guide | https://bp.veeam.expert/
 Restorepoint Simulator (inoffiziell) | http://rps.dewin.me/ 
