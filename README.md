@@ -39,7 +39,7 @@ Whitepaper - Why to backup O365? | https://www.veeam.com/why-backup-office-365-d
 Backup for O365 for Service Providers (unoffiziell) | https://anthonyspiteri.net/configuring-service-provider-self-service-recovery-with-veeam-backup-for-microsoft-office-365/ 
 RESTful API example: self-service portal in PHP (unofficial)| https://github.com/nielsengelen/vbo365-rest
 RESTful API example: self-service portal in GO (unofficial)| http://blog.dewin.me/2017/10/self-service-demo-with-veeam-backup-for.html 
-Introduction into RESTful API | https://cloudoasis.com.au/vbo365api/ 
+Introduction into RESTful API (unofficial) | https://cloudoasis.com.au/vbo365api/ 
 
 ### VMCE Vorbereitung
 * Read the textbook carefully!
