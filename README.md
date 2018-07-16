@@ -20,6 +20,8 @@ Storage integration overview (Helpcenter) | https://helpcenter.veeam.com/docs/ba
 Scripting examples and more | https://github.com/VeeamHub
 
 ### Veeam Cloud Provider
+Description | URL
+------------ | -------------
 Veeam Cloud Connect v9: A Reference Architecture | https://www.veeam.com/wp-cloud-connect-reference-architecture-v9.html
 How to register in the hidden VCSP forum | https://go.veeam.com/join-vcsp-forum.html
 
