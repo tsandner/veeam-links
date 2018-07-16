@@ -16,9 +16,12 @@ Case administrator management | https://www.veeam.com/kb2211
 NFR licenses | https://www.veeam.com/blog/de/how-to-get-free-veeam-nfr-key.html 
 VeeamPN download | https://www.veeam.com/cloud-disaster-recovery-azure-download.html 
 Veeam web-click demo (unofficial) | http://veeam.foonet.be/ 
-Veeam Cloud Connect v9: A Reference Architecture | https://www.veeam.com/wp-cloud-connect-reference-architecture-v9.html
 Storage integration overview (Helpcenter) | https://helpcenter.veeam.com/docs/backup/vsphere/storage_integration.html?ver=95
 Scripting examples and more | https://github.com/VeeamHub
+
+### Veeam Cloud Provider
+Veeam Cloud Connect v9: A Reference Architecture | https://www.veeam.com/wp-cloud-connect-reference-architecture-v9.html
+How to register in the hidden VCSP forum | https://go.veeam.com/join-vcsp-forum.html
 
 ### Veeam Agents
 Description | URL
