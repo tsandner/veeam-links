@@ -24,6 +24,7 @@ Description | URL
 ------------ | -------------
 Veeam Cloud Connect v9: A Reference Architecture | https://www.veeam.com/wp-cloud-connect-reference-architecture-v9.html
 How to register in the hidden VCSP forum | https://go.veeam.com/join-vcsp-forum.html
+VM usage reporting | https://helpcenter.veeam.com/docs/backup/cloud/sp_license_usage_report.html?ver=95
 
 ### Veeam Agents
 Description | URL
