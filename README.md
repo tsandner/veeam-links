@@ -1,6 +1,7 @@
 Description | URL
 ------------ | -------------
 Documentation | https://helpcenter.veeam.com 
+Partner workshop | https://veeamsoftwarecorp-my.sharepoint.com/:f:/r/personal/emarcotte_veeam_com/Documents/Partner%20workshop?csf=1&e=r12j0b
 Support Portal (Support & license cases) | https://my.veeam.com/ 
 Subscription senter (security advisories) | https://www.veeam.com/subscription-center.html 
 Sensitive data in log files | https://www.veeam.com/kb2462
