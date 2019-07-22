@@ -60,3 +60,7 @@ Description | URL
 Veeam edition comparison | https://www.veeam.com/de/backup-version-standard-enterprise-editions-comparison.html
 Veeam Backup & Replication licensing FAQ | https://www.veeam.com/backup-licensing-faq.html
 
+### Other
+Description | URL
+------------ | -------------
+Case administrators management: Guide for users | https://www.veeam.com/kb2211
