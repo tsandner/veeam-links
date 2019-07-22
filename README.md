@@ -38,6 +38,11 @@ ReFS overview | https://helpcenter.veeam.com/docs/backup/vsphere/backup_reposito
 ReFS block cloning API deep dive (unoffiziell) | http://blog.dewin.me/2017/02/under-hood-how-does-refs-block-cloning.html
 ReFS 4k horror story | https://forums.veeam.com/veeam-backup-replication-f2/refs-4k-horror-story-t40629-840.html
 
+### Storage Integration
+Description | URL
+------------ | -------------
+Unofficial object storage compatibility list | https://forums.veeam.com/object-storage-f52/unoffizial-compatibility-list-for-veeam-cloud-tier-t56956.html
+
 ### O365
 Description | URL
 ------------ | -------------
