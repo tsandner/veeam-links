@@ -70,3 +70,4 @@ Description | URL
 ------------ | -------------
 Veeeam Management Escalation Form | https://vee.am/feedback
 Case administrators management: Guide for users | https://www.veeam.com/kb2211
+Account based support for partners | https://veeam.wistia.com/medias/isf643wub0
