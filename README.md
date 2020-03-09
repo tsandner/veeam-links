@@ -71,3 +71,7 @@ Description | URL
 Veeeam Management Escalation Form | https://vee.am/feedback
 Case administrators management: Guide for users | https://www.veeam.com/kb2211
 Account based support for partners | https://veeam.wistia.com/medias/isf643wub0
+Security-related improvements Veeam Backup & Replication | https://www.veeam.com/kb3103
+Security-related improvements Veeam Agent for Microsoft Windows | https://www.veeam.com/kb3108
+Security-related improvements Veeam Agent for Linux | https://www.veeam.com/kb3109
+
